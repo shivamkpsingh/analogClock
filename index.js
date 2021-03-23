@@ -1,5 +1,4 @@
 setInterval(() => {
-    // console.log('harry bhai is a good person in the world');
     d=new Date();
     htime=d.getHours();
     mtime=d.getMinutes();
